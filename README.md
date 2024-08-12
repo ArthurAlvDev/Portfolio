@@ -5,4 +5,4 @@ Unreal Third Person Blueprint: [https://youtu.be/uImzcaTWE2I](https://www.youtub
 
 Unreal FPS C++: https://www.youtube.com/watch?v=WDwRsYJkdKo
 
-Unreal Sidescroller 2.5D: https://youtu.be/vzDou5Jgizg
+Unreal Sidescroller 2.5D: [https://youtu.be/vzDou5Jgizg](https://youtu.be/5RKPAq8RZ7w)
