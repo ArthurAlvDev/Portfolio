@@ -14,3 +14,5 @@ Code Challenges Java: [https://github.com/ArthurAlvDev/DasafiosCodigo](https://g
 Code Challenges Python: https://github.com/ArthurAlvDev/DasafiosCodigo/tree/main/Python
 
 Code Challenges JavaScript: https://github.com/ArthurAlvDev/DasafiosCodigo/tree/main/JavaScript
+
+Foundational C# with Microsoft: https://drive.google.com/file/d/1PFf5WvsNN7H_kuCmLPtT072N8B8KhilQ/view
