@@ -15,4 +15,4 @@ Code Challenges Python: https://github.com/ArthurAlvDev/DasafiosCodigo/tree/main
 
 Code Challenges JavaScript: https://github.com/ArthurAlvDev/DasafiosCodigo/tree/main/JavaScript
 
-Foundational C# with Microsoft: https://drive.google.com/file/d/1PFf5WvsNN7H_kuCmLPtT072N8B8KhilQ/view
+Foundational C# with Microsoft: https://www.freecodecamp.org/certification/fcc5fe14c1a-d1f4-42f5-a993-b0ffda1f1e6f/foundational-c-sharp-with-microsoft
