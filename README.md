@@ -1,13 +1,13 @@
 # Portfolio
 Entre em contato: arthuralvfe@hotmail.com
 
-Unreal Architecture: [https://www.youtube.com/watch?v=uImzcaTWE2I](https://youtu.be/dtiuNrNM590)
+Unreal Architecture: https://youtu.be/6aQD9h-rchk
 
-Unreal Third Person Blueprint: https://youtu.be/u91WVvNkAWI
+Unreal Third Person Blueprint: https://youtu.be/Sg1d3zpNdGs
 
-Unreal FPS C++: [https://www.youtube.com/watch?v=WDwRsYJkdKo](https://youtu.be/7Cwj8kmXlw0)
+Unreal FPS C++: https://youtu.be/GWA6XCCk6aw
 
-Unreal Sidescroller 2.5D: [https://youtu.be/vzDou5Jgizg](https://youtu.be/5RKPAq8RZ7w)
+Unreal Sidescroller 2.5D: https://youtu.be/JG8Jl8cJU_8
 
 Code Challenges Java: [https://github.com/ArthurAlvDev/DasafiosCodigo](https://github.com/ArthurAlvDev/DasafiosCodigo/tree/main/Java)
 
