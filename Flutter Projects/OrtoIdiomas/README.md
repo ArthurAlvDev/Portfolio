@@ -3,7 +3,9 @@ https://www.amazon.com/gp/product/B0DSWD59GZ
 
 How it was done:
 
-I built an implementation of a system of Text To Speech: https://pub.dev/packages/flutter_tts
+
+I use and adapt a Text To Speech implementation: https://pub.dev/packages/flutter_tts
+
 ![TTS_Implementation](https://github.com/user-attachments/assets/0266730e-3a71-41a3-b9fa-cb76ffeda9b1)
 
 It was modified to work with a set of pre-recorded audios. It works with both local and streaming audio:
