@@ -1,5 +1,6 @@
 OrtoIdiomas is my first version of the OrtoLearn: The Art Of War. An app made by me, to help everyone learn how to pronunciate in english. The first version is paid, but free ones will come.
 https://www.amazon.com/gp/product/B0DSWD59GZ
+https://github.com/ArthurAlvDev/Portfolio/releases/tag/v0.0.1
 
 How it was done:
 
