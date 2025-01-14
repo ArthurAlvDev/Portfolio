@@ -1,6 +1,8 @@
 OrtoIdiomas is my first version of the OrtoLearn: The Art Of War. An app made by me, to help everyone learn how to pronunciate in english. The first version is paid, but free ones will come.
 https://www.amazon.com/gp/product/B0DSWD59GZ
 
+How it was done:
+
 I built an implementation of a system of Text To Speech: https://pub.dev/packages/flutter_tts
 ![TTS_Implementation](https://github.com/user-attachments/assets/0266730e-3a71-41a3-b9fa-cb76ffeda9b1)
 
