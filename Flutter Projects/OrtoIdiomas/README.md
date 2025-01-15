@@ -4,6 +4,8 @@ https://www.amazon.com/gp/product/B0DSWD59GZ
 
 https://github.com/ArthurAlvDev/Portfolio/releases/tag/v0.0.1
 
+https://github.com/user-attachments/assets/85a55e4c-a1c6-4c19-9bb7-eeeba6bf75c3
+
 How it was done:
 
 
@@ -18,4 +20,8 @@ It was modified to work with a set of pre-recorded audios. It works with both lo
 An audio control was created to organize the audios and texts:
 
 ![Build_Control](https://github.com/user-attachments/assets/001afb29-e3af-4378-86e5-bd50c91d0590)
+
+
+
+
 
