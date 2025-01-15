@@ -1,3 +1,2 @@
-App desenvolvido tanto para ajudar pessoas a obter conhecimeto. Pretendo lançar novas versões, com outros temas.
-Desenvolvido em flutter com design simples e intuitivo, com textos e quizzes.
-
+App developed to help people gain knowledge. I intend to release new versions, with other themes. 
+Developed in Flutter with a simple and intuitive design, with texts and quizzes.
